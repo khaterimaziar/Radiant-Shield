@@ -1,0 +1,7 @@
+
+{
+  "name": "Radiant Shield: Dose Rate Calculator",
+  "description": "An interactive web application to calculate gamma dose rates from various radionuclides, considering distance and shielding.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
